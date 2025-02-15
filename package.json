@@ -1,0 +1,10 @@
+{
+    "name": "pipeline-clean-data",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "cd frontend && npm start",
+      "build": "cd frontend && npm run build",
+      "install-deps": "npm install && cd frontend && npm install"
+    }
+  }
